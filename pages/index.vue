@@ -18,7 +18,7 @@
                     width="140"
                     aspect-ratio="2"
                     contain
-                    src="img/course.png"
+                    src="/english-landing/img/course.png"
                   ></v-img>
                 </v-layout>
 
@@ -67,7 +67,7 @@
                     width="140"
                     aspect-ratio="2"
                     contain
-                    src="img/course.png"
+                    src="/english-landing/img/course.png"
                   ></v-img>
                 </v-layout>
 
@@ -117,7 +117,7 @@
                     width="140"
                     aspect-ratio="2"
                     contain
-                    src="img/course.png"
+                    src="/english-landing/img/course.png"
                   ></v-img>
                 </v-layout>
 
