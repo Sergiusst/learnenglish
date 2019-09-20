@@ -1,7 +1,4 @@
 module.exports = {
-  router: {
-    base: '/english-landing/'
-  },
   /*
   ** Headers of the page
   */
