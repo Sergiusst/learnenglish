@@ -10,7 +10,7 @@
       >
         <v-img
           max-width="140"
-          src="/img/puzzle.png"
+          src="/english-landing/img/puzzle.png"
         ></v-img>
         <v-toolbar-title>Курс английского языка, работающий на 100% КПД</v-toolbar-title>
       </v-toolbar>

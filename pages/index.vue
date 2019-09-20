@@ -71,7 +71,7 @@
                   ></v-img>
                 </v-layout>
 
-                <div class="title my-4 grey--text text--darken-3">Пакет "Вместе со все</div>
+                <div class="title my-4 grey--text text--darken-3">Пакет "Вместе со всеми"</div>
 
                 <ul>
                   <li>Пошаговое обучение на платформе</li>
