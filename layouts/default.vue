@@ -6,7 +6,7 @@
         prominent
         flat
         height="500"
-        src="/img/header.png"
+        src="/english-landing/img/header.png"
       >
         <v-img
           max-width="140"
