@@ -1,7 +1,7 @@
 module.exports = {
   mode: 'spa',
   router: {
-    base: '/english-landing/'
+    base: '/learnenglish/'
   },
   /*
   ** Headers of the page

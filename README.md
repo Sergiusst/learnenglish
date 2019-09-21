@@ -1,4 +1,4 @@
-# english-landing
+# learnenglish
 
 > Nuxt.js project
 
