@@ -75,8 +75,7 @@
                   </v-menu>
 
                   <div class="subtitle-1 ml-4">
-                    <span>3900 руб.</span>
-                    <span class="old-cost">4900 руб.</span>
+                    <span>2020 руб.</span>
                   </div>
                 </v-layout>
               </div>
@@ -160,8 +159,7 @@
                   </v-menu>
 
                   <div class="subtitle-1 ml-4">
-                    <span>7900 руб.</span>
-                    <span class="old-cost">9900 руб.</span>
+                    <span>4040 руб.</span>
                   </div>
                 </v-layout>
               </div>
@@ -246,7 +244,7 @@
                   </v-menu>
 
                   <div class="subtitle-1 ml-4">
-                    <span>14900 руб.</span>
+                    <span>8080 руб.</span>
                   </div>
                 </v-layout>
               </div>
