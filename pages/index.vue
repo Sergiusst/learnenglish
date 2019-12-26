@@ -276,21 +276,21 @@ export default {
     return {
       course1: {
         bank:
-          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=3900&button-text=11&any-card-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&",
+          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=2020&button-text=11&any-card-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&",
         yandex:
-          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=3900&button-text=11&yamoney-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&"
+          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=2020&button-text=11&yamoney-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&"
       },
       course2: {
         bank:
-          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=7900&button-text=11&any-card-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&",
+          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=4040&button-text=11&any-card-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&",
         yandex:
-          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=7900&button-text=11&yamoney-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&"
+          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=4040&button-text=11&yamoney-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&"
       },
       course3: {
         bank:
-          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=14900&button-text=11&any-card-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&",
+          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=8080&button-text=11&any-card-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&",
         yandex:
-          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=14900&button-text=11&yamoney-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&"
+          "https://money.yandex.ru/quickpay/button-widget?targets=%22%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%22&default-sum=8080&button-text=11&yamoney-payment-type=on&button-size=m&button-color=black&fio=on&phone=on&mail=on&successURL=&quickpay=small&account=410012624923404&"
       }
     };
   }
